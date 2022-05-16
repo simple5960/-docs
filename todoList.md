@@ -76,16 +76,7 @@ Impact factors of shortcomings in the quality of teaching and studying of Chines
 ```
 分析了我国高校教学质量存在缺陷的影响因素，并以其他高校的试卷为基础，提出了丽水学院某分院实行考教分离，提高教学质量的建议，阐述了该方法的步骤和意义。因此，本文具有积极的作用。
 ```
-[6]Yiliang Zhang;Mingjun Tong.Interactive learning experience to explore implementing separation of teaching and examination in college and university.[C]2011 2nd International Conference on Artificial Intelligence, Management Science and Electronic Commerce (AIMSEC)
-+ 英文原文
-```
-Implementing separation of teaching and examination is the only way of examination reform under the credit management system, Then analyses the meaning of interactive learning, the model of interactive learning conceive and the integrate of them, Finally the author discussed the experience of interactive learning in implementing separation of teaching and examination model, union implement the experience of network synthesis teaching platform.
-```
-+ 中文
-```
-实施教考分离是学分制下考试改革的必由之路，分析了互动学习的含义、互动学习模式的构想及其整合，最后探讨了互动学习在实施教考分离模式中的经验，联合实施网络综合教学平台的体会
-```
-[7]Tan, De-rong;Sun, Liang.Method and Practice of Separation of Teaching and Examination on University Talents Training.[C].EDUCATION AND EDUCATION MANAGEMENT
+[6]Tan, De-rong;Sun, Liang.Method and Practice of Separation of Teaching and Examination on University Talents Training.[C].EDUCATION AND EDUCATION MANAGEMENT
 + 英文原文
 ```
 Cultivation of Innovative Persons meet demand of Social Development. Meanwhile, it is essential for surviving and development of universities, promoting teaching reform is an important way for improving cultivation quality of undergraduates. In this paper, Practice of separation of teaching and examination of traffic transportation major show is proved to feasible. It helps improve the quality of teaching on undergraduate
@@ -94,3 +85,7 @@ Cultivation of Innovative Persons meet demand of Social Development. Meanwhile, 
 ```
 培养创新人才是社会发展的需要。同时，它对高校的生存和发展至关重要，推进教学改革是提高本科生培养质量的重要途径。交通运输专业表演课教学与考试分离的实践证明是可行的。它有助于提高本科生的教学质量
 ```
+[17]前端开发技术介绍.Mozilla官网.https://developer.mozilla.org/zh-CN/docs/Learn.
+[18]Vue.js官方文档.https://cn.vuejs.org/
+[19]SpringBoot官方文档.https://spring.io/projects/spring-boot
+[20]MySQL官方文档.https://www.mysql.com/
